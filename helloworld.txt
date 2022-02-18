@@ -1,2 +1,2 @@
 Hello world 123 5
-Added new line (new condition)
+Added new line
