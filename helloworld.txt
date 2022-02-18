@@ -1,2 +1,2 @@
-Hello world 123 5
-Added new line
+Hello world 123 5 AddedByFeature1
+Added new line (new condition)
